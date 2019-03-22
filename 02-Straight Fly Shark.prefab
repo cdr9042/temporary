@@ -6,7 +6,7 @@ PolygonCollider2D:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4407351963228408393}
+  m_GameObject: {fileID: 6444674367767439120}
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
@@ -138,7 +138,7 @@ PrefabInstance:
     - target: {fileID: 377, guid: f6ba31f0d1662934b91b7d486549e8e9, type: 3}
       propertyPath: m_RigidBody
       value: 
-      objectReference: {fileID: 6444674367767438854}
+      objectReference: {fileID: 6444674367767439119}
     - target: {fileID: 304, guid: f6ba31f0d1662934b91b7d486549e8e9, type: 3}
       propertyPath: m_Controller
       value: 
@@ -303,13 +303,13 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f6ba31f0d1662934b91b7d486549e8e9, type: 3}
---- !u!50 &6444674367767438854 stripped
+--- !u!50 &6444674367767439119 stripped
 Rigidbody2D:
   m_CorrespondingSourceObject: {fileID: 284, guid: f6ba31f0d1662934b91b7d486549e8e9,
     type: 3}
   m_PrefabInstance: {fileID: 6444674367767439130}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &4407351963228408393 stripped
+--- !u!1 &6444674367767439120 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7231121234120830291, guid: f6ba31f0d1662934b91b7d486549e8e9,
     type: 3}
